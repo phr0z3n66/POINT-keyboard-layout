@@ -22,6 +22,11 @@ Asset 	    traditional	            1.795	3.12%	0.117	1.911
 
 
 
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/14242595/186792093-1aec768c-d136-4052-94a8-2965d075d343.png)
 
 
