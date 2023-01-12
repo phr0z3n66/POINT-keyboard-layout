@@ -1,5 +1,5 @@
-readme 
-close to asset but not
+
+this layout closely resembles the aset layout but should be easier to migrate over from qwerty
 
 ![Layout01](https://user-images.githubusercontent.com/14242595/212205806-1ebf5e4f-5a9e-4a8d-9d52-0506472bb487.jpg)
 
