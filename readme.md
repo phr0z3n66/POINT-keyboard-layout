@@ -1,3 +1,5 @@
+**** notes: I have not figured out how to format the readme file yet ***********
+
 
 this layout closely resembles the aset layout but should be easier to migrate over from qwerty
 
